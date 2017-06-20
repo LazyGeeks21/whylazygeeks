@@ -1,0 +1,2 @@
+# whylazygeeks
+GitHub Pages
